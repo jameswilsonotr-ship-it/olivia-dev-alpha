@@ -1,0 +1,1 @@
+See full updated SKILL.md (with hardcore gutter default and trigger behavior) in the Drive tarball linked above. This repo is the GitHub mirror for the private alpha fork.
